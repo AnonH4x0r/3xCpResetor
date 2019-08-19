@@ -10,14 +10,20 @@ A multi platform tool for reseting cps as fast as possible!
 Step-1: Upload reset.php on your target websites<br>
 Step-2: Make list of those script links like this:
 
-    https://target.yxz/wp-content/plugins/fuckyou/reset.php
+    		https://target.yxz/wp-content/plugins/fuckyou/reset.php
 		http://mytarget.com/administrator/install/resetme.php
 		https://myvulnrul.me/joomla/fuckresetcp.php
 
 Step-3: Run commands below:
 
-		chmod +x reset
-		./reset
+For Linux:
+
+	chmod +x reset
+	./reset
+For Windows:
+
+	Just run the exe file!
+			
 
 Step-4: Put your list.txt
 
