@@ -22,7 +22,10 @@ For Linux:
 	./reset
 For Windows:
 
-	Just run the reset.exe file!
+	Open certain folder that contains script
+	Press shift+right click and click open powershell here or cd from your command prompt to the directory
+	./reset.exe
+	(I told you this long process instead of double tapping beacuse the exe file will close at the moment when the work is done.. But in this way it will not close :D)
 			
 
 Step-4: Put your list.txt
