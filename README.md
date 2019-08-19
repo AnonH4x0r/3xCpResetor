@@ -27,4 +27,4 @@ For Windows:
 
 Step-4: Put your list.txt
 
-You are done! now just wait and see the game!
+You are done! now just wait and enjoy the game!
