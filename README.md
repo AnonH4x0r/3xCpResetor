@@ -22,7 +22,7 @@ For Linux:
 	./reset
 For Windows:
 
-	Just run the exe file!
+	Just run the reset.exe file!
 			
 
 Step-4: Put your list.txt
